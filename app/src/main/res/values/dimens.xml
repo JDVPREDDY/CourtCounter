@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad16">16dp</dimen>
+    <dimen name="pad0">0dp</dimen>
+    <dimen name="pad8">8dp</dimen>
+    <dimen name="textsize_team_name">18sp</dimen>
+    <dimen name="pad24">24dp</dimen>
+    <dimen name="textsize_score">56sp</dimen>
+    <dimen name="textsize_fouls">36sp</dimen>
+    <dimen name="line_width">2dp</dimen>
+    <dimen name="resetpad">32dp</dimen>
+    <dimen name="top">80dp</dimen>
+
+
+</resources>
