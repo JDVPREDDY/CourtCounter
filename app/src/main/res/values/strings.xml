@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Court Counter</string>
     <string name="one">1</string>
-    <string name="team_a">Team A</string>
-    <string name="team_b">Team B</string>
+    <string name="team_a">Chicago Bulls</string>
+    <string name="team_b">Miami Heat</string>
     <string name="zero">0</string>
     <string name="add3">+3 points</string>
     <string name="add2">+2 points</string>
