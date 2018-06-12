@@ -10,6 +10,4 @@
     <dimen name="line_width">2dp</dimen>
     <dimen name="resetpad">32dp</dimen>
     <dimen name="top">80dp</dimen>
-
-
 </resources>

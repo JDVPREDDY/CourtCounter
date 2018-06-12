@@ -90,7 +90,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="@dimen/textsize_fouls"
                         android:text="@string/Fouls"
-                        android:textColor="@color/black"/>
+                        android:textColor="@color/black" />
 
                     <TextView
                         android:id="@+id/team_a_fouls"
@@ -175,7 +175,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="@dimen/pad24"
                         android:text="@string/Fouls"
-                        android:textColor="@color/black"/>
+                        android:textColor="@color/black" />
 
                     <TextView
                         android:id="@+id/team_b_fouls"
